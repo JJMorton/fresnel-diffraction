@@ -1,0 +1,5 @@
+/notebook/
+/out/
+*.o
+/fresnel
+.DS_store
